@@ -1,0 +1,35 @@
+p{
+    text-align: center;
+    margin-top: 400px;
+    font-size: 120px;
+    border: 5px solid #98BFAA;
+    border-radius: 60px;
+    width: 650px;
+    height: 170px;
+    margin-left: 850px;
+    padding-top: 30px;
+}
+
+body{
+    background-color: rgb(09, 55, 77);
+    
+}
+
+.hora{
+   
+    text-align: center;
+    color: #ffb875;
+    
+}
+
+.separador{
+    color: #ffb875;
+}
+
+
+h1{
+    text-align: center;
+    font-size: 100px;
+    color: #98BFAA;
+    margin-right: 40px;
+}
